@@ -46,8 +46,6 @@
   * Former Speaker Nancy Pelosi
   * Senator Mitch McConnell 
   * CIA Director William Burns
-* [[Beast from the Earth|]]
-  * Elon Musk 
 * [[Scarlet Beast/Beast from the Abyss|Beast from the Abyss]]
   * [[Frederick "Slim" Hall|]]
 
