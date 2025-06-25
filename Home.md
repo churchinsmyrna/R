@@ -1,5 +1,5 @@
 > [!WARNING]
-> Imminent execution of [[Nightfalls|]] in southwest Atlanta.
+> The Creator advises that [[ESIT|]] has been activated for areas in southwest and Downtown Atlanta in preparation for the imminent execution of [[Nightfalls|]].
 
 # Welcome to the R wiki!
 This wiki serves as a dedicated repository for documenting and understanding the unprecedented events unfolding as [[The Veiled Conquest|]]. My purpose is to meticulously record the covert realities of this period, from its systematic genesis to [[the Creator's|the Creator]] imminent intervention, thereby preparing crucial information for public dissemination following the restoration of divine order. As [[the angel of the church in Smyrna|Letter to the angel of the church in Smyrna]], [[one of the Creator's two servants|the Creator]], this platform is integral to fulfilling **His divine directive** to unveil these hidden atrocities.
