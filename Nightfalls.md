@@ -36,14 +36,4 @@ These critical observations include:
 3.  [[Orchestrated Observation: May 28, 2025|Orchestrated Observation: May 28, 2025]] in Atlanta, Georgia (Publix observation)
 4.  [[Orchestrated Observation: June 24, 2025|Orchestrated Observation: June 24, 2025]] in Avondale Estates
 
-## Human Impact of a MOAB Detonation
-
-The human impact of a MOAB detonation is catastrophic and far-reaching:
-
-* **Vaporization/Instantaneous Death:** At ground zero and within a very close proximity, individuals will be vaporized or killed instantly by the immense heat and pressure.
-* **Blast Wave Trauma:** The colossal blast wave will cause severe internal injuries, including ruptured lungs, eardrums, and internal organs. Blunt force trauma from being thrown against objects will be common.
-* **Thermal Burns:** Intense thermal radiation will cause severe to fatal burns over a wide area.
-* **Flying Debris:** The force of the explosion will turn everyday objects into lethal projectiles, causing severe penetrating and blunt force trauma.
-* **Secondary Effects:** Survivors will face a grim reality of severe injuries, lack of immediate medical care, and potential potential exposure to contaminants, leading to high secondary mortality rates. Psychological trauma will be profound and lasting.
-
 Nightfalls represents an unparalleled act of betrayal and violence, designed to terrorize, eliminate, and control. Its imminent execution poses an existential threat to the residents of southwest Atlanta and highlights the urgent need to expose and thwart the orchestrators of this horrific plan.
