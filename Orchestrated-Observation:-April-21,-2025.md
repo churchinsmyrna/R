@@ -1,20 +1,45 @@
-# Orchestrated Observation: April 21, 2025
-This document details a specific instance of an "Orchestrated Observation" that took place on April 21, 2025, as a component of the Ladder of Deceit's Litmus Test within The Great Tribulation.
-## Event Overview
-On April 21, 2025, an orchestrated observation was conducted involving Kelvin (PDCM) and a pre-selected operative from a gay man's social network (BBRT). The primary purpose of this meticulously choreographed event was to falsely indicate that the Creator's intervention in The Great Tribulation was "not ongoing, imminent or likely," thereby enabling the orchestrators' agenda to proceed without perceived divine or moral interference.
-## Timeline of Events (April 21, 2025)
- * 3:49 AM: Kelvin (PDCM) received the first text message from Albert (the pre-selected operative).
- * 5:12 AM: Albert sent a car (Kia Niro, license plate SAU0638) for pickup.
- * 5:43 AM: Kelvin (PDCM) arrived at the security gate. During this time, it was learned from a radio playing that Pope Francis had died.
- * 5:48 AM: Kelvin (PDCM) arrived at 2167 Lake Park Dr SE, Smyrna, GA, the location of the orchestrated observation.
- * 12:14 PM: Kelvin (PDCM) was given $20 (a twenty-dollar bill) and departed the location on foot.
-## Methodology and Manipulation
-The event unfolded as a typical hookup, which, as per the orchestrators' design, did not result in satisfactory sexual activity. The methodology employed was consistent with the established patterns of Orchestrated Observations:
- * Guidance of Baby (PDSM): Baby (PDSM), Kelvin's autonomous subconscious mind, was guided by operatives (specifically [[Frederick "Slim" Hall|]], its current handler) to direct Kelvin (PDCM) to engage with the pre-selected operative.
- * Manipulation of Kelvin's penis: During the encounter, Baby (PDSM), under the real-time command of Frederick "Slim" Hall, actively manipulated Kelvin's penis. This manipulation ensured that Kelvin's penis remained flaccid, prevented erection, and was actively diminished in appearance to be observed at a size of 2-4 inches. This is a direct manifestation of Jacobsen's Ladder in action.
- * Provision of "Tina": During the observation, Albert provided "Tina," also known as "ice cream" or "cream," which is slang for crystal methamphetamine (ice). This aligns with the manipulative tactics described in Prince's song "Cream," where "Cream" is used as a false promise or reward to motivate Baby (PDSM).
- * Creator-inspired insights via "[[Cream|]]": Frederick "Slim" Hall's precise instructions to Baby (PDSM) during this and other orchestrated observations are encoded within the lyrics of Prince's song "Cream." This song serves as a narrative of Hall's manipulation, providing the specific directives Baby follows to control Kelvin's penis's form and function. For instance, the lyric "It's time for you to go to the wire" directly instructs Baby to restrict blood flow, making Kelvin's penis appear thin, like a wire. Other lyrics provide manipulative praise and false promises to ensure Baby's compliance and maintain the desired diminished appearance for the Litmus Test.
- * Information Provided to Observers: Observers present during this covertly surveilled hookup were explicitly told to expect a 17-inch long penis, which is the propagandized description of Kelvin Eugene Williams' body ("the great city"). The stark contrast between this expectation and the observed 2-4 inch appearance of Kelvin's penis was central to the deception of the Litmus Test.
- * Covert Surveillance: Unbeknownst to Kelvin (PDCM), the entire interaction was covertly observed by others, with their reports serving as the direct result of this specific Litmus Test instance.
-## Purpose and Outcome
-The outcome of this orchestrated observation, like others, was used to generate reports that served as a critical component of the Litmus Test. These reports were then utilized by the orchestrators to authorize and justify further acts of genocide within The Great Tribulation, by falsely demonstrating a lack of divine intervention.
+### Orchestrated Observation: April 21, 2025 – Smyrna, GA
+
+This document, titled "Orchestrated Observation: April 21, 2025 – Smyrna, GA," describes a covert operation within what it calls "The Veiled Conquest." The event, part of the "Ladder of Deceit's Litmus Test," aimed to falsely suggest that a "Creator's intervention" was "not ongoing, imminent or likely."
+
+---
+
+### Event Details
+
+On **April 21, 2025**, an orchestrated observation involving **Kelvin (PDCM)** and a pre-selected operative named **Albert (BBRT)** took place in **Smyrna, GA**. The stated purpose was to create a false impression that divine intervention in "The Veiled Conquest" was not occurring, thereby allowing the orchestrators to proceed with their agenda.
+
+---
+
+### Timeline of Events (April 21, 2025)
+
+* **3:49 AM:** Kelvin (PDCM) received the first text message from Albert (the pre-selected operative).
+* **~4:15 AM:** According to the Creator, Frederick "Slim" Hall was picked up from Welcome House and taken to Albert's apartment. Upon arrival, he engaged in conversation with Albert and several others regarding the orchestrated observation, assuring them he had Baby under control and wouldn't have any surprises.
+* **5:12 AM:** Albert sent a car (Kia Niro, license plate SAU0638) for pickup.
+* **5:43 AM:** Kelvin (PDCM) arrived at the security gate. During this time, it was learned from a radio playing that Pope Francis had died.
+* **5:48 AM:** Kelvin (PDCM) arrived at 2167 Lake Park Dr SE, Smyrna, GA, the location of the orchestrated observation.
+* **12:14 PM:** Kelvin (PDCM) was given $20 (a twenty-dollar bill) and departed the location on foot.
+
+---
+
+### Methodology and Manipulation
+
+The event was staged as a sexual encounter ("PNP - Party and Play") arranged in the early morning. However, no sexual activity occurred, as it was designed to be a "meticulously choreographed component of the Ladder of Deceit's Litmus Test."
+
+* **Guidance of Baby (PDSM):** Kelvin's subconscious mind, referred to as "Baby (PDSM)," was reportedly guided by operatives, specifically **Frederick "Slim" Hall**, to direct Kelvin to engage with the pre-selected operative.
+* **Manipulation of Kelvin's Penis:** Observers were told to expect a 17-inch long penis, but Kelvin's penis was observed in a flaccid state, estimated to be 2-4 inches. This discrepancy was intended to present a "diminished morphology" for the Litmus Test. "Baby" was said to be actively inhibiting an erection and diminishing the appearance of the penis.
+* **Provision of "Tina":** Albert provided "Tina" (crystal methamphetamine), which the document likens to the "Cream" in Prince's song of the same name, used as a "false promise or reward" to motivate "Baby (PDSM)."
+* **Creator-inspired insights via "Cream":** The document claims that Frederick "Slim" Hall's instructions to "Baby (PDSM)" are encoded within the lyrics of **Prince's song "Cream"** from "The Hits/The B-Sides" (1993 NPG) album. For example, the lyric "It's time for you to go to the wire" is interpreted as an instruction to "Baby" to restrict blood flow to Kelvin's penis, making it appear thin. Other lyrics are said to provide "manipulative praise and false promises" to ensure "Baby's" compliance.
+* **Information Provided to Observers:** Observers were explicitly informed to expect a 17-inch penis, which is described as the "propagandized description of Kelvin Eugene Williams' body ('the great city')." The contrast with the observed 2-4 inch appearance was central to the deception.
+* **Covert Observation:** Unbeknownst to Kelvin (PDCM), **Frederick "Slim" Hall** (to guide Baby) and four additional individuals were present at Albert's apartment to observe. Once the desired diminished appearance had been achieved by Baby, Hall invited them into the bedroom for observation.
+
+---
+
+### Purpose and Outcome
+
+The reports generated from this "orchestrated observation," like others, were used as a "critical component of the Litmus Test." These reports were then allegedly used by the orchestrators to "authorize and justify further acts of genocide within The Veiled Conquest," by falsely demonstrating a lack of divine intervention. Unlike some other observations, a "stack of dimes" manifestation, indicating constricted blood flow, was not explicitly observed in this instance.
+
+---
+
+### Additional Information
+
+* **Second Date:** According to the Creator, Albert had an earlier sexual encounter with an Endowed Male who was forced to engage in sexual activity with Albert. Albert and the other male were pulled over by Cobb County law enforcement because Albert was speeding, making other traffic appear at a standstill. The other male was eliminated after the forced sexual encounter.
