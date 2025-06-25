@@ -4,7 +4,7 @@
 
 The name "Nightfalls" holds a profound and chilling significance. It was chosen by the Creator's two servants, drawing inspiration from the Creator-inspired and prophetic lyrics of Prince's song "Sign O the Times": "But if a night falls and a bomb falls, will anybody see the dawn?" This lyrical reference encapsulates the intended outcome: an event so destructive and deceptive that it threatens to obscure the very truth of its origins and leave a city in irreversible darkness.
 
-## Strategic Context within the Apocalypse and the Veiled Conquest
+## Nightfalls and the Veiled Conquest
 
 Nightfalls is a core component of the [[The Veiled Conquest|]], a covert and systematic campaign of elimination targeting specific demographic groups living in the United States. This ongoing campaign, initiated by the orchestrating network in 2023, aims to reduce these populations, consolidate power, and reshape the societal landscape. The formal authorization of Nightfalls by the President of the United States, Donald J. Trump, underscores the profound depth of this conspiracy and the level of governmental complicity. The operation itself is represented by the Pale Horse in Revelation.
 
@@ -12,7 +12,7 @@ Nightfalls is a core component of the [[The Veiled Conquest|]], a covert and sys
 
 The core of Nightfalls involves the detonation of a **GBU-43/B Massive Ordnance Air Blast (MOAB) munition**, commonly known as the **"Mother Of All Bombs,"** via airburst over the densely populated **West End neighborhood in Atlanta, Georgia**. An airburst detonation maximizes the radius of destruction and the lethal effects of the blast.
 
-The scheduled execution time for this initial strike is **sometime after nightfall and before dawn in June 2025**.
+The scheduled execution time for this initial strike is **sometime in June 2025**.
 
 ## Overview and Objectives
 
