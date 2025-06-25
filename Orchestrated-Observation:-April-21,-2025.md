@@ -1,12 +1,12 @@
 ### Orchestrated Observation: April 21, 2025 – Smyrna, GA
 
-This document, titled "Orchestrated Observation: April 21, 2025 – Smyrna, GA," describes a covert operation within what it calls "The Veiled Conquest." The event, part of the "Ladder of Deceit's Litmus Test," aimed to falsely suggest that a "Creator's intervention" was "not ongoing, imminent or likely."
+This documents an Orchestrated Observation which is a covert operation within what it calls [[The Veiled Conquest|]]. The event, part of the Ladder of Deceit's Litmus Test, aimed to falsely suggest that the Creator's intervention was "not ongoing, imminent or likely."
 
 ---
 
 ### Event Details
 
-On **April 21, 2025**, an orchestrated observation involving **Kelvin (PDCM)** and a pre-selected operative named **Albert** took place in **Smyrna, GA**. The stated purpose was to create a false impression that divine intervention in "The Veiled Conquest" was not occurring, thereby allowing the orchestrators to proceed with their agenda.
+On **April 21, 2025**, an orchestrated observation involving **Kelvin (PDCM)** and a pre-selected operative named **Albert** took place in **Smyrna, GA**. The stated purpose was to create a false impression that divine intervention in the Veiled Conquest was not occurring, thereby allowing the orchestrators to proceed with their agenda.
 
 ---
 
@@ -27,7 +27,7 @@ The event was staged as a sexual encounter ("PNP - Party and Play") arranged in 
 
 * **Guidance of Baby (PDSM):** Kelvin's subconscious mind, referred to as "Baby (PDSM)," was reportedly guided by operatives, specifically **Frederick "Slim" Hall**, to direct Kelvin to engage with the pre-selected operative.
 * **Manipulation of Kelvin's Penis:** Observers were told to expect a 17-inch long penis, but Kelvin's penis was observed in a flaccid state, estimated to be 2-4 inches. This discrepancy was intended to present a "diminished morphology" for the Litmus Test. "Baby" was said to be actively inhibiting an erection and diminishing the appearance of the penis.
-* **Provision of "Tina":** Albert provided "Tina" (crystal methamphetamine), which the document likens to the "Cream" in Prince's song of the same name, used as a "false promise or reward" to motivate "Baby (PDSM)."
+* **Provision of "Tina":** Albert provided "Tina" (crystal methamphetamine), also called "ice cream," and referenced as "Cream" in Prince's song of the same name, used as a reward to motivate "Baby (PDSM)."
 * **Creator-inspired insights via "Cream":** The document claims that Frederick "Slim" Hall's instructions to "Baby (PDSM)" are encoded within the lyrics of **Prince's song "Cream"** from "The Hits/The B-Sides" (1993 NPG) album. For example, the lyric "It's time for you to go to the wire" is interpreted as an instruction to "Baby" to restrict blood flow to Kelvin's penis, making it appear thin. Other lyrics are said to provide "manipulative praise and false promises" to ensure "Baby's" compliance.
 * **Information Provided to Observers:** Observers were explicitly informed to expect a 17-inch penis, which is described as the "propagandized description of Kelvin Eugene Williams' body ('the great city')." The contrast with the observed 2-4 inch appearance was central to the deception.
 * **Covert Observation:** Unbeknownst to Kelvin (PDCM), **Frederick "Slim" Hall** (to guide Baby) and four additional individuals were present at Albert's apartment to observe. Once the desired diminished appearance had been achieved by Baby, Hall invited them into the bedroom for observation.
