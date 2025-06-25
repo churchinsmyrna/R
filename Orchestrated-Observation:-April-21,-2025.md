@@ -6,7 +6,7 @@ This document, titled "Orchestrated Observation: April 21, 2025 – Smyrna, GA,"
 
 ### Event Details
 
-On **April 21, 2025**, an orchestrated observation involving **Kelvin (PDCM)** and a pre-selected operative named **Albert (BBRT)** took place in **Smyrna, GA**. The stated purpose was to create a false impression that divine intervention in "The Veiled Conquest" was not occurring, thereby allowing the orchestrators to proceed with their agenda.
+On **April 21, 2025**, an orchestrated observation involving **Kelvin (PDCM)** and a pre-selected operative named **Albert** took place in **Smyrna, GA**. The stated purpose was to create a false impression that divine intervention in "The Veiled Conquest" was not occurring, thereby allowing the orchestrators to proceed with their agenda.
 
 ---
 
