@@ -61,7 +61,5 @@ The **Deceptive Diagnostics Rung** is a decision-making rung based on diagnostic
 
 This final rung directly follows and depends on the manipulated outcome of The Deceptive Diagnostics Rung. It involves using the "clear" (manipulated) diagnostic results to **rationalize the false absence of Creator's intervention** and, crucially, to **authorize the orchestrators' genocidal actions**, which include:
 
-* **"Nightfalls":** [Description pending]
-* **"Canyon Flood":** [Description pending]
-
-This rung provides the manufactured justification and moral impunity for proceeding with widespread atrocities within the Veiled Conquest, effectively weaponizing deception to enable mass violence.
+* **"[[Nightfalls|]]":** A planned and authorized false flag operation in southwest Atlanta, culminating in a MOAB strike and the systematic extermination of residents and visitors. 
+* **"[[Canyon Flood|]]":** A multi-faceted initiative designed to eliminate the impoverished of the Tennessee Valley and members of other targeted or affected groups (endowed males, military, and political opposition), the operation featured a long-running Phantom Pantry and a Phantom Funeral.
