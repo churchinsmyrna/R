@@ -10,7 +10,7 @@ This multi-tiered system comprises five interconnected rungs, each building upon
 
 **Jacobsen's Ladder** is both a term and a concept, an eponymous term coined by the Creator, named after "Hurricane Annie" Jacobsen, who devised it.
 
-As a term, Jacobsen's Ladder refers to **the penis on the physical body recognized as Kelvin Eugene Williams, one of the Creator's two servants, prior to the Creator's Divide**—viewed by the orchestrators as a "divine attribute"—in the following scenarios:
+As a term, [[Jacobsen's Ladder|]] refers to **the penis on the physical body recognized as Kelvin Eugene Williams, one of the Creator's two servants, prior to the Creator's Divide**—viewed by the orchestrators as a "divine attribute"—in the following scenarios:
 
 * When its then-current **morphology** is a deviation from its **native morphology**—the morphology of an individual's post-pubescent penis as naturally developed for an individual from conception through the end of puberty—specifically a reduced morphology, and that deviation was caused by the body's subconscious mind manipulating physiological processes and initiating involuntary movements at the direction of operatives with the intent of causing or maintaining the deviation.
 * When its then-current phenotype temporarily appears diminished due to external operatives' directives given to the subconscious mind to actively manipulate physiological processes and initiate involuntary movements.
