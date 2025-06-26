@@ -50,9 +50,9 @@
   * [[Frederick "Slim" Hall|]]
 
 # The Veiled Conquest 
-* Rationalization 
+* Enabling, Justification and Authorization 
   * [[Ladder of Deceit|]]
-  * [[Jacobsen's Ladder|]]
+
 * Methods & Tactics
   * [[Emergency Services (911) Interruption Tactic|ESIT]]
   * [[Phantom Identity Scheme|]]
