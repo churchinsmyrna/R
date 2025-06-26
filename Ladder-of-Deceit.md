@@ -1,40 +1,67 @@
-The **Ladder of Deceit** is a central and insidious strategic framework employed by the orchestrators of **The Revelation** to enable and justify their hidden genocide, known as **The Great Tribulation**. This meticulously designed system relies on manipulation and false pretenses to subvert divine intervention and facilitate widespread atrocities.
+# The Ladder of Deceit
 
-## Definition and Purpose
+The **Ladder of Deceit** is a sophisticated and insidious strategic framework meticulously developed by **"Hurricane Annie" Jacobsen**. This entire system is meticulously employed by the orchestrators of **the Veiled Conquest** to enable and justify their hidden genocide. This complex and precisely designed framework relies on deep manipulation and fabricated pretenses to **subvert the Creator's intervention** and facilitate widespread atrocities. Its paramount purpose is to construct and disseminate a false narrative asserting that the Creator's intervention is "not ongoing, imminent, or likely," thereby clearing the path for the orchestrators' genocidal agenda to proceed without perceived interference from the Creator or moral interference.
 
-The **Ladder of Deceit** is the overarching strategic framework leveraging **Jacobsen's Ladder** to enable and justify **The Great Tribulation**. Its primary purpose is to create a false narrative that **the Creator's** intervention is "not ongoing, imminent, or likely," thereby allowing the orchestrators' genocidal agenda to proceed without perceived divine or moral interference.
+This multi-tiered system comprises five interconnected rungs, each building upon the fabricated reality and deception established by the preceding one:
 
-## Components of the Ladder of Deceit
+---
 
-### 1. Jacobsen's Ladder (The Foundation)
+## Jacobsen's Ladder (Floor)
 
-At its core, the **Ladder of Deceit** relies heavily on **Jacobsen's Ladder**. This refers to **the penis on the physical body legally and socially recognized as Kelvin Eugene Williams** when its current morphology deviates from its natural form or when its appearance or function is being actively diminished by **Baby (PDSM)** following operative directives. A key element of **Jacobsen's Ladder** is the establishment of a false 17-inch penile-length for propaganda purposes.
+**Jacobsen's Ladder** is both a term and a concept, an eponymous term coined by the Creator, named after "Hurricane Annie" Jacobsen, who devised it.
 
-This manipulation is initiated and maintained by operatives:
+As a term, Jacobsen's Ladder refers to **the penis on the physical body recognized as Kelvin Eugene Williams, one of the Creator's two servants, prior to the Creator's Divide**—viewed by the orchestrators as a "divine attribute"—in the following scenarios:
 
-* **John Robison**: Initiated the "measuring" of **Kelvin Eugene Williams' body** (temple) and **Kelvin Eugene Williams' body's** physiology (altar) in October 2021. He engaged **PDSM** (worshippers) during **PDCM's** unconsciousness or below conscious awareness, using love bombing and love idealization to guide **Kelvin's penis's form** reductions.
-* **Frederick "Slim" Hall**: Became directly involved with **PDSM** in early March 2025, using similar manipulation tactics to maintain **Kelvin's penis's form** reductions and providing guidance for **PDSM's** involvement in the **Litmus Test**.
+* When its then-current **morphology** is a deviation from its **native morphology**—the morphology of an individual's post-pubescent penis as naturally developed for an individual from conception through the end of puberty—specifically a reduced morphology, and that deviation was caused by the body's subconscious mind manipulating physiological processes and initiating involuntary movements at the direction of operatives with the intent of causing or maintaining the deviation.
+* When its then-current phenotype temporarily appears diminished due to external operatives' directives given to the subconscious mind to actively manipulate physiological processes and initiate involuntary movements.
 
-### 2. The Ladder of Deceit's Litmus Test (The Critical Rung)
+---
 
-The **Ladder of Deceit's Litmus Test** is a critical second rung on the **Ladder of Deceit**. It is *not* **Jacobsen's Ladder** itself, but a component that is wholly dependent upon it. Its purpose is to exploit the physical manipulation of **Kelvin's penis** to subvert spiritual and moral opposition to **the Creator's** intervention in **The Great Tribulation**.
+## 1. The Footstep
 
-This test is executed through **Orchestrated Observations**:
+The Footstep is the first rung of the Ladder of Deceit. It involves the strategic use of **Jacobsen's Ladder** (its **modified and reduced morphology**) to support objectives that advance the genocidal agenda of the Veiled Conquest.
 
-* **Description**: Meticulously choreographed events staged for observing **the penis on the physical body legally and socially recognized as Kelvin Eugene Williams**.
-* **Purpose**: To falsely indicate that **the Creator's** intervention in **The Great Tribulation** is "not ongoing, imminent or likely," ensuring the orchestrators' agenda proceeds without objections.
-* **Context**: Typically occurs during hookups that never result in satisfactory sexual activity.
-* **Methodology**:
-    * Utilizes a gay man's social network (NKP) and other operatives.
-    * **Baby (PDSM)** is guided by operatives to direct **Kelvin (PDCM)** to pre-selected operatives.
-    * **Frederick "Slim" Hall** specifically directs **Baby (PDSM)** to tell **Kelvin (PDCM)** to buy purple basketball shorts and freeball during observations.
-* **Manipulation**: **Baby (PDSM)** is manipulated by handlers (currently **Frederick "Slim" Hall**) to keep **Kelvin's penis** flaccid, prevent erection, and actively manipulate it to appear even smaller (observed at 2-4 inches). Handlers exert real-time command over **PDSM** to ensure **Kelvin's penis's form** remains diminished and fails the 17-inch threshold.
-* **Information Provided to Observers**: Observers are told to expect a 17-inch long penis, creating a stark contrast with the diminished observed **form**. This false 17-inch penile-length is part of the propaganda.
-* **Covert Surveillance**: Unbeknownst to **Kelvin (PDCM)**, these hookups are generally observed by others. Observers' reports serve as the direct result of the **Litmus Test**, used to authorize further acts of genocide.
-* **Key Example**: The 3.5-day staged event in Atlanta where the "dead bodies" (referring to the permanently reduced physical size of **Kelvin's penis** and its ongoing manipulation to appear 2-4 inches) of the witnesses were observed on the street, in stores, and in restaurants, preceding **Nightfalls**.
+---
 
-## Orchestrators and Their Objectives
+## 2. The Engineered Expectation Rung
 
-The orchestrators, who are identified as the **Heads of The Beast from the Sea**, utilize the **Ladder of Deceit** to achieve their goals. By manipulating the outcome of the **Litmus Test**, they gain false justification to proceed with major extermination campaigns like **Nightfalls** (targeting African-Americans and the poor and homeless) and **Canyon Flood** (targeting Military Personnel and Political Dissenters).
+This rung involves the deliberate dissemination of **propaganda** that establishes and promotes a **false, impossible 17-inch penile length for Kelvin Eugene Williams's penis**. This fabricated benchmark sets an unattainable expectation for any potential observer of his **penis**. Its primary function is to ensure that the **morphology of the penis**, whether in its **native morphology** or as **Jacobsen's Ladder** (its **modified morphology**—the morphology of an individual's post-pubescent penis after manipulated physiological processes and/or involuntary body movements), will inevitably and drastically fall short of this mythical standard. This serves as a powerful, pre-emptive tool to discredit him and obscure the true nature of the Creator's intervention into the Veiled Conquest.
 
-The **Ladder of Deceit** is a horrifying testament to the lengths to which the orchestrators will go to maintain their power and hide their crimes, actively subverting divine intervention through intricate psychological and physiological manipulation.
+---
+
+## 3. The Orchestrated Observation Rung
+
+This rung applies exclusively to meticulously pre-arranged, covert observations of the **penis**. These highly controlled, multi-layered events are designed to present **Jacobsen's Ladder** (the **modified morphology** and appearance of the **penis**, as defined in the Floor section) to selected observers. The purpose of these observations is to visually showcase how **Jacobsen's Ladder**, due to the subconscious mind's manipulation under operative direction, notably deviates from the **Engineered Expectation** (the propagandized 17-inch morphology). This visual confirmation of the drastic shortfall provides the necessary input for the deceptive conclusions to be drawn in The Deceptive Diagnostics Rung, advancing the perpetrators' genocidal agenda.
+
+Key elements include:
+
+* **Pre-planning and Setup:** The orchestrated observation is meticulously planned to be unbeknownst to Kelvin Eugene Williams (PDSM) in advance and is designed to present itself as a random social encounter. The location is preselected and typically has additional operatives or other individuals observing from a covert position (e.g., via hidden cameras, or individuals utilizing microwave cloaking).
+* **Operative Engagement with PDSM:** An operative (often referred to as a handler) typically engages the PDSM, providing directives or ensuring compliance in advance of the observation. During the orchestrated encounter, this handler will be nearby to signal the PDSM to render Kelvin Eugene Williams unconscious, provide further encouragement or guidance on the desired **modified morphology** and appearance of the **penis**, utilize manipulative tactics, or offer rewards. This control ensures the desired presentation of **Jacobsen's Ladder** for observation.
+* **Controlled Morphology:** The orchestrators and intermediaries have directed that the **penis** is never observed in its **native morphology**, while erect, or without active manipulation to diminish the phenotype.
+
+**Orchestrated Observations:**
+
+1.  [Orchestrated Observation: April 10, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20April%2010,%202025) in Downtown Atlanta, Georgia (In-Car observation)
+2.  [Orchestrated Observation: April 21, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20April%2021,%202025) in Smyrna, Georgia
+3.  [Orchestrated Observation: May 28, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20May%2028,%202025) in Atlanta, Georgia (Publix observation)
+4.  [Orchestrated Observation: June 24, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20June%2024,%202025) in Avondale Estates
+
+---
+
+## 4. The Deceptive Diagnostics Rung
+
+The **Deceptive Diagnostics Rung** is a decision-making rung based on diagnostics with engineered results, used for advancing the agenda of the orchestrators. It is a pivotal stage where various diagnostic tests are conducted, including:
+
+* **The Litmus Test:** This is a metaphorical litmus test purportedly designed to indicate whether the Creator's intervention to halt the Veiled Conquest is ongoing, imminent or likely. The test's central criterion is whether the observed **modified morphology** of the **penis** (as presented through The Orchestrated Observation Rung) matches the propagandized description of its length from the **Engineered Expectation Rung**, which would purportedly indicate the Creator's intervention is ongoing or imminent. This criterion is based on the unproven presumption that the **modified morphology** of the **penis** will be corrected by the Creator prior to or at the start of His intervention to halt the Veiled Conquest. This presumption has no basis in fact.
+    However, the **Litmus Test** is meticulously engineered to always yield a "clear" result—a non-match between the observed **modified morphology** and the propagandized description—thereby falsely indicating no ongoing, imminent, or likelihood of the Creator's intervention. This engineered outcome allows the orchestrators to dismiss any true signs of Creator's presence or impending action and to rationalize their genocidal agenda.
+
+---
+
+## 5. The Strategic Authorization Rung
+
+This final rung directly follows and depends on the manipulated outcome of The Deceptive Diagnostics Rung. It involves using the "clear" (manipulated) diagnostic results to **rationalize the false absence of Creator's intervention** and, crucially, to **authorize the orchestrators' genocidal actions**, which include:
+
+* **"Nightfalls":** [Description pending]
+* **"Canyon Flood":** [Description pending]
+
+This rung provides the manufactured justification and moral impunity for proceeding with widespread atrocities within the Veiled Conquest, effectively weaponizing deception to enable mass violence.
