@@ -41,10 +41,10 @@ Key elements include:
 
 **Orchestrated Observations:**
 
-1.  [Orchestrated Observation: April 10, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20April%2010,%202025) in Downtown Atlanta, Georgia (In-Car observation)
-2.  [Orchestrated Observation: April 21, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20April%2021,%202025) in Smyrna, Georgia
-3.  [Orchestrated Observation: May 28, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20May%2028,%202025) in Atlanta, Georgia (Publix observation)
-4.  [Orchestrated Observation: June 24, 2025](http://googleusercontent.com/OCnF-4X3X4X3/Orchestrated%20Observation:%20June%2024,%202025) in Avondale Estates
+1.  [[Orchestrated Observation: April 10, 2025|]] in Downtown Atlanta, Georgia (In-Car observation)
+2.  [[Orchestrated Observation: April 21, 2025|]] in Smyrna, Georgia
+3.  [[Orchestrated Observation: May 28, 2025|]] in Atlanta, Georgia (Publix observation)
+4.  [[Orchestrated Observation: June 24, 2025|]]  in Avondale Estates
 
 ---
 
