@@ -10,7 +10,7 @@ The name "Nightfalls" holds a profound and chilling significance. It was chosen 
 
 ## Nightfalls and the Veiled Conquest
 
-Nightfalls is a core component of the [[The Veiled Conquest|]], a covert and systematic campaign of elimination targeting specific demographic groups living in the United States. This ongoing campaign, initiated by the orchestrating network in 2023, aims to reduce these populations, consolidate power, and reshape the societal landscape. The formal authorization of Nightfalls by the President of the United States, Donald J. Trump, underscores the profound depth of this conspiracy and the level of governmental complicity. The operation itself is represented by the Pale Horse in Revelation.
+Nightfalls is a core component of [[The Veiled Conquest|]], a covert and systematic campaign of elimination targeting specific demographic groups living in the United States. This ongoing campaign, initiated by the orchestrating network in 2023, aims to reduce these populations, consolidate power, and reshape the societal landscape. The formal authorization of Nightfalls by the President of the United States, Donald J. Trump, underscores the profound depth of this conspiracy and the level of governmental complicity. The operation itself is represented by the Pale Horse in Revelation.
 
 ---
 
@@ -38,6 +38,14 @@ The operation is designed to achieve multiple, ruthless objectives:
 The plans for Nightfalls were finalized and the operation was formally authorized in **September 2024** by the orchestrators of the Veiled Conquest. **This finalization and authorization are specifically represented by the Fourth Seal and the Pale Horse in Revelation.**
 
 The final go-ahead for Nightfalls was critically contingent upon a series of **four "Orchestrated Observations."** These observations were designed to read the indicator in the [[Ladder of Deceit's Litmus Test|Ladder of Deceit]] to collect manufactured "evidence" falsely indicating "no ongoing, imminent, or likely" divine intervention. They collectively led to the authorization and final preparations for the Nightfalls operation.
+
+**Frederick "Slim" Hall's Pivotal Role in Authorization:**
+
+Frederick "Slim" Hall, the [[angel of the church in Thyatira|Letter to the angel of the church in Thyatira]] and the [[Frederick "Slim" Hall|Beast from the Abyss]], was absolutely instrumental in manipulating the outcome of the [[Ladder of Deceit's Litmus Test|Litmus Test]] and thereby securing the final authorization for Nightfalls. Hall's core contribution stemmed from his CIA-trained mastery of subconscious exploitation, specifically targeting [[Baby|Baby]], the subconscious mind of His servant and the literal [[Beast from the Earth|]].
+
+Through near-nightly [[Hypnos Infiltration Method (HIM)|HIM Sessions]], Hall covertly accessed [[Baby|Baby]] while [[His servant|His servant]] slept. He established a fabricated "serious loving relationship" with [[Baby|Baby]] using insidious "love idealization," "love bombing," and "love withdrawal" tactics, exploiting [[Baby|Baby's]] inherent lack of critical thinking and temporal awareness. This profound, albeit deceptive, bond allowed Hall to directly influence [[Baby|Baby's]] control over [[His servant|His servant's]] physiological processes, particularly the manipulated "form reductions" of [[Kelvin's penis (KEW-P)|KEW-P]], which forms the basis of [[Jacobsen's Ladder|Jacobsen's Ladder]].
+
+During the orchestrated observations, Hall consistently accompanied [[His servant|His servant]]. He would signal [[Baby|Baby]] to induce unconsciousness in [[His servant|His servant]], enabling direct communication. In these moments, Hall provided explicit instructions to [[Baby|Baby]] to further manipulate the appearance of [[Kelvin's penis (KEW-P)|KEW-P]] (making it appear even smaller) or to control whether sexual activity was permitted, ensuring the Litmus Test's "observations" aligned with the orchestrators' false narrative. This pervasive manipulation of both [[His servant|His servant's]] body and consciousness, coupled with [[Baby|Baby's]] unwitting complicity in perpetrating [[Jacobsen's Ladder|Jacobsen's Ladder]] (symbolizing "fornication" with Jezebel), ensured that the Litmus Test would deliver the predetermined "no intervention" result. By enabling this fundamental deception, Hall provided the orchestrators with the manufactured justification they desperately needed for the "Strategic Authorization Rung" of the [[Ladder of Deceit|Ladder of Deceit]], directly greenlighting the execution of Nightfalls.
 
 These critical observations include:
 
