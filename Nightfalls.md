@@ -18,7 +18,7 @@ Nightfalls is a core component of [[The Veiled Conquest|]], a covert and systema
 
 The core of Nightfalls involves the detonation of a **GBU-43/B Massive Ordnance Air Blast (MOAB) munition**, commonly known as the **"Mother Of All Bombs,"** via airburst over the densely populated **West End neighborhood in Atlanta, Georgia**. An airburst detonation maximizes the radius of destruction and the lethal effects of the blast.
 
-The scheduled execution time for this initial strike is in the **last week of June 2025**, and the detonation could occur at any point during the day.
+The scheduled execution time for this initial strike is in the **Spring/Summer of 2025.**
 
 ---
 
