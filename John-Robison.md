@@ -4,6 +4,7 @@
 ## Introduction
 In the Book of Revelation, "angels" are understood as human messengers or leaders. John Robison occupies a critical role in the foundational stages of The Veiled Conquest, serving as a key orchestrator in initiating covert manipulation of the penis of Kelvin Eugene Williams and strategic exploitation of his subconscious mind, Baby. His actions, beginning in October 2021, laid the groundwork for more extensive and insidious operations that followed—directly fulfilling aspects of Revelation 11.
 ## Identification
+ * The angel was "Hurricane Annie" [[Annie Jacobsen|]].
  * Initiator of “The Measuring of the Temple”: John Robison is identified as the individual who initiated this operation, marking the start of the 42-month period of "Gentile rule" over the penis of the body legally and socially recognized as Kelvin Eugene Williams.
  * Architect of Early Control Mechanisms: Robison developed the engagement protocol for Baby and established the platform used by Baby to address the natural limitations of the subconscious mind foundational  of physical and psychological control central to Jacobsen's Ladder particularly targeting Kelvin’s body and subconscious.
 
