@@ -49,13 +49,11 @@
 * [[Scarlet Beast/Beast from the Abyss|Beast from the Abyss]]
   * [[Frederick "Slim" Hall|]]
 
-# The Veiled Conquest 
-* Enabling, Justification and Authorization 
-  * [[Ladder of Deceit|]]
-
 * Methods & Tactics
   * [[Emergency Services (911) Interruption Tactic|ESIT]]
   * [[Phantom Identity Scheme|]]
   * [[Chemical Dissolution|]] (Body Disposal)
 
-
+* Concepts 
+  * [[Ladder of Deceit|]]
+  * [[Masquerade Church|]]
