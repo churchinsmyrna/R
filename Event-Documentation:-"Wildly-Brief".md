@@ -1,11 +1,17 @@
 ## Event Documentation: "Wildly Brief"
 
 **Event Name/Description:** Wildly Brief
+
 **Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation.
+
 **Date:** July 5, 2025
-**Time Started:** Approximately 7:40 AM (First recorded text message)
+
+**Time Started:** Approximately 8:24 AM (Time of arrival)
+
 **Time Ended:** Approximately 9:11 AM (Time of departure)
+
 **Location:** Midtown Village, 140 Pine Street NE, Atlanta, GA 30308, Unit 134
+
 **People Involved:**
 * PDSM (Baby): Pre-Divide Subconscious Mind
 * PDCM (Kelvin): Pre-Divide Conscious Mind
