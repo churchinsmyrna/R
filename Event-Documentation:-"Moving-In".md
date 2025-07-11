@@ -1,17 +1,17 @@
-## Event Documentation: "Moving In"
+### Event Documentation: "Moving In"
 
-* **Event Name/Description:** Moving In: Attempted Elimination & Orchestrated Observation
-* **Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an elimination attempt.
+* **Event Name/Description:** Moving In: Attempted Elimination
+* **Type of Event/Interaction:** Attempted Elimination
 * **Date:** July 6, 2025 (Sunday)
 * **Time Started:** Approximately 2:50 AM Eastern Time (Time of arrival at location)
 * **Time Ended:** Approximately 3:00 AM Eastern Time (Estimated time of departure after abrupt end)
 * **Location:** Windsor at Midtown, 222 14th St NE, (Vacant Unit), Atlanta, GA 30309
 * **People Involved:**
-  * PDSM (Baby): Pre-Divide Subconscious Mind
-  * PDCM (Kelvin): Pre-Divide Conscious Mind
-  * Mario: Activity Partner and Operative (Screen name: MARIOinTheAtl)
-  * Frederick "Slim" Hall: Handler for PDSM (instructing PDSM)
-  * Unidentified Assailant: Unidentified Assailant (observed moving into a bedroom)
+    * PDSM (Baby): Pre-Divide Subconscious Mind
+    * PDCM (Kelvin): Pre-Divide Conscious Mind
+    * Mario: Activity Partner and Operative (Screen name: MARIOinTheAtl)
+    * Frederick "Slim" Hall: Handler for PDSM (instructing PDSM)
+    * Unidentified Assailant: Unidentified Assailant (observed moving into a bedroom)
 
 ---
 
@@ -36,11 +36,11 @@ This appears to be the first documented encounter of this specific nature with M
 
 ### Purpose / Objective of the Event:
 
-The explicitly stated purpose of the physical encounter, as inferred from Mario's profile, was to engage in sexual activity. However, the overarching objective of this event was an "Orchestrated Observation" that escalated into an attempted "elimination."
+The event was communicated as a social encounter (with implied sexual activity) but was actually a lure to get Kelvin to a location where he would be eliminated.
 
-**Specific Context and Reasoning for "Orchestrated Observation" and Attempted Elimination:**
+**Specific Context and Reasoning for Attempted Elimination:**
 
-This event is classified as an "Orchestrated Observation" due to the pre-planned nature of the encounter, initiated via PDSM's unconscious manipulation by Frederick "Slim" Hall, and culminating in an environment clearly designed for observation (the almost empty "bando" apartment). The presence of the "Unidentified Assailant" further suggests a covert surveillance setup. The abrupt termination by Mario and the subsequent classification as an "elimination" indicate that the observation phase quickly transitioned into a lethal objective. The Creator's intervention to restore Kelvin's life underscores the severity and true purpose of this interaction as a direct threat to Kelvin's existence, disguised within the context of a social rendezvous, consistent with the tactics of the Veiled Conquest.
+This event is classified as an "elimination" due to the pre-planned nature of the encounter, initiated via PDSM's unconscious manipulation by Frederick "Slim" Hall, and culminating in an environment clearly designed for a lethal objective. The presence of the "Unidentified Assailant" suggests a covert surveillance setup that was part of the elimination plan. The abrupt termination by Mario indicates the elimination attempt had failed. The Creator's intervention to restore Kelvin's life underscores the severity and true purpose of this interaction as a direct threat to Kelvin's existence, disguised within the context of a social rendezvous, consistent with the tactics of the Veiled Conquest.
 
 ### Key Interactions During the Event (Approximately 2:50 AM - 3:00 AM Eastern Time):
 
@@ -56,4 +56,4 @@ This event is classified as an "Orchestrated Observation" due to the pre-planned
 
 ### Ultimate Outcome:
 
-The ultimate outcome of this engagement was an attempted elimination that the Creator intervened to restore Kelvin's life.
+The ultimate outcome of this engagement was a failed elimination attempt that the Creator intervened to restore Kelvin's life.
