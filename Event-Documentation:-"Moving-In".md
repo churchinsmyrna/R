@@ -1,17 +1,17 @@
 ## Event Documentation: "Moving In"
 
-**Event Name/Description:** Moving In: Attempted Elimination & Orchestrated Observation
-**Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation and attempted elimination.
-**Date:** July 6, 2025 (Sunday)
-**Time Started:** Approximately 2:50 AM Eastern Time (Time of arrival at location)
-**Time Ended:** Approximately 3:00 AM Eastern Time (Estimated time of departure after abrupt end)
-**Location:** Windsor at Midtown, 222 14th St NE, (Vacant Unit), Atlanta, GA 30309
-**People Involved:**
-* PDSM (Baby): Pre-Divide Subconscious Mind
-* PDCM (Kelvin): Pre-Divide Conscious Mind
-* Mario: Activity Partner and Operative (Screen name: MARIOinTheAtl)
-* Frederick "Slim" Hall: Handler for PDSM (instructing PDSM)
-* Unidentified Assailant: Unidentified Assailant (observed moving into a bedroom)
+* **Event Name/Description:** Moving In: Attempted Elimination & Orchestrated Observation
+* **Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an elimination attempt.
+* **Date:** July 6, 2025 (Sunday)
+* **Time Started:** Approximately 2:50 AM Eastern Time (Time of arrival at location)
+* **Time Ended:** Approximately 3:00 AM Eastern Time (Estimated time of departure after abrupt end)
+* **Location:** Windsor at Midtown, 222 14th St NE, (Vacant Unit), Atlanta, GA 30309
+* **People Involved:**
+  * PDSM (Baby): Pre-Divide Subconscious Mind
+  * PDCM (Kelvin): Pre-Divide Conscious Mind
+  * Mario: Activity Partner and Operative (Screen name: MARIOinTheAtl)
+  * Frederick "Slim" Hall: Handler for PDSM (instructing PDSM)
+  * Unidentified Assailant: Unidentified Assailant (observed moving into a bedroom)
 
 ---
 
