@@ -15,7 +15,7 @@
 
 ### Contextual Observations Leading Up to the Event/Interaction:
 
-Given the time of the first message, and the fact that all partying had to be done by 9:30 PM, PDCM knew this was an Orchestrated Observation only, and they declined the event out loud in their room, which is under surveillance.
+There have been a series of Orchestrated Observations prior to the imminent execution of Nightfalls, and this one was suspected to be another. Given the time of the first message, and the fact that all partying had to be done by 9:30 PM, PDCM knew this was an Orchestrated Observation only, and they declined the event out loud in their room, which is under surveillance.
 
 ### Pre-Event Communication (Text/Other Exchange):
 
