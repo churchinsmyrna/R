@@ -1,15 +1,15 @@
 ### Event Documentation: "Candy for the Baby"
 
-**Event Name/Description:** Candy for the Baby
-**Type of Event/Interaction:** Planned social encounter (non-sexual), serving as a reward for PDSM (Baby).
-**Date:** July 11, 2025
-**Time Started:** 11:15 AM
-**Time Ended:** 11:40 AM
-**Location:** The Flying Biscuit Cafe, 1001 Piedmont Ave NE, Atlanta, GA 30309
-**People Involved:**
-* James Mitchell
-* PDCM
-* PDSM
+- **Event Name/Description:** Candy for the Baby
+- **Type of Event/Interaction:** Planned social encounter (non-sexual), serving as a reward for PDSM (Baby).
+- **Date:** July 11, 2025
+- **Time Started:** 11:15 AM
+- **Time Ended:** 11:40 AM
+- **Location:** The Flying Biscuit Cafe, 1001 Piedmont Ave NE, Atlanta, GA 30309
+- **People Involved:**
+  - James Mitchell
+  - PDCM
+  - PDSM
 
 ---
 
