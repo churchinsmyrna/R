@@ -1,4 +1,4 @@
-### Event Documentation: "Shower Time"
+# Event Documentation: "Shower Time"
 
 * **Event Name/Description:** Shower Time
 * **Type of Event/Interaction:** Orchestrated Observation

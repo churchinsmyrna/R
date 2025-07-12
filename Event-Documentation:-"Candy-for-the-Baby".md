@@ -1,4 +1,4 @@
-### Event Documentation: "Candy for the Baby"
+# Event Documentation: "Candy for the Baby"
 
 - **Event Name/Description:** Candy for the Baby
 - **Type of Event/Interaction:** Planned social encounter (non-sexual), serving as a reward for PDSM (Baby).

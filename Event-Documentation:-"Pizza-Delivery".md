@@ -1,4 +1,4 @@
-### Event Documentation: "Pizza Delivery"
+# Event Documentation: "Pizza Delivery"
 
 * **Event Name/Description:** Pizza Delivery
 * **Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation / Attempted Elimination.

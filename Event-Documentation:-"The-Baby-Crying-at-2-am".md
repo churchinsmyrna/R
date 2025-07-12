@@ -1,4 +1,4 @@
-### Event Documentation: "The Baby Crying at 2 am"
+# Event Documentation: "The Baby Crying at 2 am"
 
 **Event Name/Description:** The Baby Crying at 2 am
 **Type of Event/Interaction:** Orchestrated Observation (Hypnos Infiltration Method)

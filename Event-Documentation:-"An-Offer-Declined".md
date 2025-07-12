@@ -1,4 +1,4 @@
-### Event Documentation: "An Offer Declined"
+# Event Documentation: "An Offer Declined"
 
 * **Event Name/Description:** An Offer Declined
 * **Type of Event/Interaction:** An interaction to set up or invite to an Orchestrated Observation

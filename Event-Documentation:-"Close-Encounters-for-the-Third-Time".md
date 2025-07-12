@@ -1,4 +1,4 @@
-### Event Documentation: "Close Encounters for the Third Time"
+# Event Documentation: "Close Encounters for the Third Time"
 
 * **Event Name/Description:** Close Encounters for the Third Time
 * **Type of Event/Interaction:** Personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation.

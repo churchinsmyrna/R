@@ -1,4 +1,4 @@
-### Event Documentation: "Code: RED"
+# Event Documentation: "Code: RED"
 
 * **Event Name/Description:** Code: RED
 * **Type of Event/Interaction:** Orchestrated Observation

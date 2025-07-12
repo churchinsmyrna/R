@@ -1,4 +1,4 @@
-## Event Documentation: "Wildly Brief"
+# Event Documentation: "Wildly Brief"
 
 **Event Name/Description:** Wildly Brief
 

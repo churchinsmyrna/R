@@ -1,4 +1,4 @@
-### Event Documentation: "Moving In"
+# Event Documentation: "Moving In"
 
 * **Event Name/Description:** Moving In: Attempted Elimination
 * **Type of Event/Interaction:** Attempted Elimination
