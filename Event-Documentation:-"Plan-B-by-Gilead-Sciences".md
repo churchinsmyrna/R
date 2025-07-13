@@ -1,5 +1,8 @@
 # Event Documentation: "Plan B by Gilead Sciences"
 
+> [!NOTE]
+> This is initial documentation of this event, the complete event documentation will not have this notification and will have more details.
+
 * **Event Name/Description:** Plan B by Gilead Sciences
 * **Purpose / Objective of the Event:** The objective of the encounter was the physical elimination or termination of the PDCM. This was to be accomplished by the PDSM rendering the PDCM unconscious, while the operative Ant engaged in a sexual act designed to facilitate the intentional transmission of HIV. The presence of crystalline substances on the operative's penis was intended to cause rectal abrasions, ensuring contact with the PDCM's bloodstream upon ejaculation.
 * **Type of Event/Interaction:** A Termination Encounter that failed.
