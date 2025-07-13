@@ -1,25 +1,25 @@
 # Event Documentation: "Frozen Pizza"
 
-> [!NOTE]
-> This is an incomplete report.  Committing incomplete to prevent data loss.
 * **Event Name/Description:** Frozen Pizza
-* **Purpose / Objective of the Event:** No information provided.
+* **Purpose / Objective of the Event:** Implied sexual encounter, actual objective was the elimination/termination of Kelvin
 * **Type of Event/Interaction:** Termination Encounter
 * **Date:** July 12, 2025
 * **Time Started:** 12:16 am (arrival via Uber)
 * **Time Ended:** 10:41 am (departure on foot)
-* **Location:** 1732 Childerlee LN NE, Atlanta, GA 30329
+* **Location:** Residence of Doug Thrasher, 1732 Childerlee LN NE, Atlanta, GA 30329
 * **People Involved:**
     * PDCM
-    * James Mitchell
-    * Doug Thrasher
-    * Ant
+    * PDSM
+    * James Mitchell: Operative, Organizer, Implied Activity Partner
+    * Doug Thrasher: Operative, Host, Implied Activity Partner
+    * Ant: Operative, Implied Activity Partner
 
 ---
 
 ### Contextual Observations Leading Up to the Event:
 
-No information provided.
+* The execution of the Nightfalls operation is imminent.
+* James Mitchell had an encounter with Kelvin Eugene Williams around 12 hours earlier (see: "Candy for the Baby").
 
 ### Pre-Event Communication (Text Exchange with James Mitchell)
 
@@ -51,9 +51,16 @@ No information provided.
 
 ### Key Interactions During the Event:
 
+* **12:16 am:** James and Doug are waiting outside as the Uber arrives.
 * **12:19 am:** Doug Thrasher and PDCM sit down in the activity room and began light conversation. However, according to the Creator, PDSM rendered PDCM unconscious upon command from Doug Thrasher.
+* **12:30 am:** James enters the activity room.
+* **1:00 am:** Both James laid down for nap and Doug had laid down, both appeared tired as if they had already engaged in sexual activity and completed it prior to my arrival.
+* **2:03 am:** PDCM initiated PDSM-driven communication (via text message) with Ant to invite him to join the encounter.
+* **2:06 am:** Ant replied (note: most texts to Ant are not responded to at all).
+* **2:10 am:** Ant indicates that he will join but needs to figure out the logistics.
 * **4:17 am:** PDCM: "Hey, the door is locked."
     * **Note:** PDCM had stepped outside for a cigarette. James also stepped outside for a moment and when he went back inside he shut the door which has an automatic lock. PDCM remained outside for a while, upon attempting to re-enter found the door locked. Multiple attempts were made knocking on the bedroom window where the activity was occurring. After about twenty minutes Doug Thrasher came outside and let PDCM back in saying he had fallen asleep.
+* **5:59 am:** Ant advises he is en-route. The group at the residence (Doug, James and Kelvin) will pickup Ant at Lindberg Center Station at 7 am.
 * **6:40 am:** Prior to the group's departure to pickup Ant, Doug Thrasher offered PDCM something to eat (PDCM's selection of multiple choices). The PDSM-driven choice: Pizza.
 * **6:48 am:** The group travels to Lindbergh Station to pickup Ant.
 * **7:15 am:** Ant joins the group and the group returns to the residence.
@@ -64,4 +71,4 @@ No information provided.
 
 ### Ultimate Outcome:
 
-No information provided.
+Termination Encounter that failed due to interventions by the Creator.
