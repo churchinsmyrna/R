@@ -16,7 +16,7 @@
     * PDCM
     * PDSM
     * James Mitchell: Operative, Organizer, Implied Activity Partner
-    * Ant: Operative, Implied Activity Partner
+    * Ant Howard: Operative, Implied Activity Partner
 
 ---
 
