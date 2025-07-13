@@ -29,6 +29,7 @@
 * [[Letter to the angel of the church in Smyrna|]]
 * [[Letter to the angel of the church in Pergamos|]]
 * [[Letter to the angel of the church in Thyatira|]]
+* [[Letter to the angel of the church in Laodicea|]]
 * [[Letter to the angel of the church in Philadelphia|]]
 * [[Angels and Churches in Revelation|]]
 
