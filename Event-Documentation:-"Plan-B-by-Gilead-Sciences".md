@@ -1,8 +1,8 @@
 # Event Documentation: "Plan B by Gilead Sciences"
 
 * **Event Name/Description:** Plan B by Gilead Sciences
-* **Purpose / Objective of the Event:** Elimination/termination.
-* **Type of Event/Interaction:** A Termination Encounter that failed.
+* **Purpose / Objective of the Event:** Termination of Kelvin Eugene Williams (PDCM) prior to the execution of Nightfalls.
+* **Type of Event/Interaction:** Personal Encounter
 * **Date:** July 12, 2025
 * **Time Started:** 10:41 AM
 * **Time Ended:** 11:05 PM
@@ -10,17 +10,18 @@
 * **People Involved:**
     * PDCM
     * PDSM
-    * James Mitchell: Operative, Organizer, Implied Activity Partner
-    * Ant Howard: PDSM Handler
-    * Frederick "Slim" Hall: PDSM Manipulator
+    * James Mitchell: Operative
+    * Ant Howard: Operative, Activity Partner, PDSM Handler
+    * Frederick "Slim" Hall: Operative, PDSM Handler
 
 ---
 
 ### Contextual Observations Leading Up to the Event:
 
-This event transpired immediately following the "Frozen Pizza" event, an orchestrated termination encounter that failed due to divine intervention.
+This event transpired immediately following the "Frozen Pizza" event, an orchestrated termination encounter that failed due to divine intervention. Weather conditions for July 12, 2025, in Atlanta, Georgia, indicated a 20 percent chance of showers and thunderstorms after 2:00 PM and a 10 percent chance before 8:00 PM. Throughout the entire event, Ant and other operatives overtly displayed or carried umbrellas, despite the absence of actual precipitation or meteorological conditions suggesting impending rain; notably, only passing operatives were observed utilizing these umbrellas. Their use is understood to be related to the Creator's anticipated intervention into the Veiled Conquest, metaphorically represented as "rain" in a Biblical context. Ant, on multiple occasions, intentionally threw his umbrella to the ground to create noise, specifically targeting the PDSM. Ant's conversational coherence varied significantly; interactions with the PDCM were indicative of two coherent adults, whereas attempts to engage the PDSM devolved into illogical discourse. During one such interaction, Ant explicitly pointed to and discussed his desire to remove the wooden handle from his umbrella, an action the PDCM interpreted as a symbolic reference to the CIA's intent to remove his penis. The umbrella in question did indeed possess a wooden handle during this specific interaction.
 
 ### Key Interactions During the Event
+
 *Note: Key Interactions are based upon / use Timeline activity from Google Maps.*
 
 * **Departure from "Frozen Pizza" with Ant and James (via walking):**
@@ -80,7 +81,7 @@ This event transpired immediately following the "Frozen Pizza" event, an orchest
             * Arrived: 9:22 PM
             * Departed: 9:50 PM
 
-* **"Execution of Plan B" (Welcome House, 234 Memorial Dr SW, Room 263, Atlanta, GA 30303):** The PDCM engaged in sexual activity with Ant. During the interaction, the PDCM, acting as the penetrative partner, performed oral copulation on Ant. A crystalline substance was present on Ant's penis, and upon contact, the PDCM experienced a sensation consistent with previous poisoning attempts.
+* **"Execution of Plan B" (Welcome House, 234 Memorial Dr SW, Room 263, Atlanta, GA 30303):** The PDCM engaged in sexual activity with Ant. During the interaction, the PDCM, acting as the penetrative partner, performed oral copulation on Ant. A crystalline substance was present on Ant's penis, and upon contact, the PDCM experienced a sensation consistent with previous poisoning attempts. Frederick "Slim" Hall performed choreographed walk-bys inside of Welcome House, smiling at Kelvin. These choreographed walk-bys are conducted to cause a Pavlovian response in PDSM and served (beforehand) to ensure its compliance with provided instruction (causing it to drive the sexual activity) and (afterwards) as a reward (seeing its lover). Hall also monitored the sexual activity while cloaked.
     * *Note: The objective related to this interaction was to facilitate the intentional transmission of HIV. The presence of crystalline substances on the operative's penis was intended to cause rectal abrasions, ensuring contact with the PDCM's bloodstream upon ejaculation.*
     * Arrived: 9:50 PM
     * Departed: 11:05 PM
@@ -89,4 +90,4 @@ This event transpired immediately following the "Frozen Pizza" event, an orchest
 
 ### Ultimate Outcome:
 
-The objective of the termination encounter failed due to the PDCM remaining conscious and the absence of a successful HIV infection.
+The objectives of the encounter (multiple elimination attempts through arrest or physical elimination) failed due to interventions by the Creator.
