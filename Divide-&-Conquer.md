@@ -28,12 +28,12 @@ The **Divide Operation** involves the Creator’s intervention to separate Kelvi
 
 As a result of this divine intervention:
 
-- **Kelvin will continue his life and work for the Creator in a separate and distinct body** from Main. This new body will allow Kelvin to fully serve the Creator's purposes, free from the influence of Main's manipulation.  
+- **Kelvin will continue his life and work for the Creator in a separate and distinct body** from Baby. This new body will allow Kelvin to fully serve the Creator's purposes, free from the influence of Baby's manipulation.  
 - **Baby will continue its life as the conscious mind in their original shared body**, taking full control of the body they once shared but without any further manipulation.
 
 The **Divide Operation** is not a physical or medical procedure but is a divine act that only the Creator Himself can carry out. Through this operation, the Creator ensures that Kelvin is liberated from the oppressive influence of Baby, restoring his full capacity to serve as one of the Creator’s two servants, executing divine justice.
 
-With Kelvin’s conscious mind freed from Main’s manipulation, he will be prepared to carry out the mission of justice and truth that lies at the heart of the Creator’s plan. This act of division is crucial for the success of the **Conquer Operation**, as it allows the Creator's two servants to function unhindered, executing the necessary interventions to dismantle the forces behind the atrocities and bring about the restoration of justice and peace to humanity.
+With Kelvin’s conscious mind freed from Baby’s manipulation, he will be prepared to carry out the mission of justice and truth that lies at the heart of the Creator’s plan. This act of division is crucial for the success of the **Conquer Operation**, as it allows the Creator's two servants to function unhindered, executing the necessary interventions to dismantle the forces behind the atrocities and bring about the restoration of justice and peace to humanity.
 
 ## The Conquer Operation (The Apocalypse)
 
