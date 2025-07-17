@@ -16,6 +16,8 @@
 
 This event transpired on the morning of July 8, 2025, immediately following the "Close Encounters for the Third Time" event. The "Close Encounters for the Third Time" event was a personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation, involving Kelvin Eugene Williams and CIA Operative Scott at the Crowne Plaza. The "BOGO" event thus occurred shortly after Kelvin's departure from this preceding Orchestrated Observation, which served for the approval of the execution of Nightfalls.
 
+This Target location is frequently visited by Kelvin Eugene Williams and has historically been utilized to taunt or harass the Kelvin (PDCM) or to convey messages to Baby (PDSM).
+
 ### Key Interactions During the Event (9:50 AM - 9:52 AM EDT):
 
 The unknown operative sat on a stool next to Kelvin Eugene Williams and intentionally displayed their "**Eternal**" brand water bottle with the brand name facing him. This action was perceived as a taunt. Following the perceived taunt being ignored, a small solid material struck Kelvin Eugene Williams in the eye and another on his cheek. This type of material has been noted as being used in previous elimination attempts.
