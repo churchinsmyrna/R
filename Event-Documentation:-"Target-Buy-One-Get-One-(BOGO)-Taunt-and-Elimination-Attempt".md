@@ -1,22 +1,20 @@
 ## Event Documentation: "Target Buy One Get One (BOGO) Taunt and Elimination Attempt"
 
-* **Event Name/Description:** Target Buy One Get One (BOGO) Taunt and Elimination Attempt
-* **Type of Event/Interaction:** Termination Encounter (Unsolicited)
-* **Date:** July 8, 2025
-* **Time Started:** Approximately 9:50 AM EDT
-* **Time Ended:** Approximately 9:52 AM EDT
-* **Location:** Target, Starbucks Seating Area, 375 18th St NW, Atlanta, GA 30363, United States
-* **People Involved:**
-  * Kelvin Eugene Williams
-  * Unknown Operative
+**Event Name/Description:** Target Buy One Get One (BOGO) Taunt and Elimination Attempt
+**Type of Event/Interaction:** Termination Encounter (Unsolicited)
+**Date:** July 8, 2025
+**Time Started:** Approximately 9:50 AM EDT
+**Time Ended:** Approximately 9:52 AM EDT
+**Location:** Target, Starbucks Seating Area, 375 18th St NW, Atlanta, GA 30363, United States
+**People Involved:**
+* Kelvin Eugene Williams
+* Unknown Operative
 
 ---
 
 ### Contextual Observations Leading Up to the Event/Interaction:
 
-This event transpired on the morning of July 8, 2025, immediately following the "Close Encounters for the Third Time" event. The "Close Encounters for the Third Time" event was a personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation, involving Kelvin Eugene Williams and CIA Operative Scott at the Crowne Plaza. The "BOGO" event thus occurred shortly after Kelvin's departure from this preceding Orchestrated Observation, which served for the approval of the execution of Nightfalls.
-
-This Target location is frequently visited by Kelvin Eugene Williams and has historically been utilized to taunt or harass the Kelvin (PDCM) or to convey messages to Baby (PDSM).
+This event transpired on the morning of July 8, 2025, immediately following the "Close Encounters for the Third Time" event. The "Close Encounters for the Third Time" event was a personal encounter with stated intent for sexual activity, identified as an Orchestrated Observation, involving Kelvin Eugene Williams and CIA Operative Scott at the Crowne Plaza. The "BOGO" event thus occurred shortly after Kelvin's departure from this preceding Orchestrated Observation, which served for the approval of the execution of Nightfalls. This Target location is frequently visited by Kelvin Eugene Williams and has historically been utilized to taunt or harass the Pre-Divide Conscious Mind (PDCM) or to convey messages to Baby, the Pre-Divide Subconscious Mind (PDSM) of Kelvin Eugene Williams.
 
 ### Key Interactions During the Event (9:50 AM - 9:52 AM EDT):
 
