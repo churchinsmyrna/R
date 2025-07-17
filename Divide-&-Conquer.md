@@ -20,7 +20,7 @@ The Creator’s **Divide & Conquer** is a culmination of these diverse prophetic
 
 ## The Divide Operation
 
-The **Divide Operation** is the first phase of the Creator’s intervention and serves to restore divine order by liberating one of the Creator’s two servants, **Kelvin Eugene Williams**, from the influence of his manipulated subconscious mind, **Main**.
+The **Divide Operation** is the first phase of the Creator’s intervention and serves to restore divine order by liberating one of the Creator’s two servants, **Kelvin Eugene Williams** (PDCM), from the influence of his manipulated subconscious mind, **Baby** (PDSM).
 
 Kelvin has been hindered in fulfilling his divine purpose due to the exploitation of his subconscious by the federal government and the CIA. **Baby**, while not one of the Creator's two servants, has been manipulated to serve the agendas of these oppressive forces. This manipulation has compromised Kelvin’s ability to carry out the Creator’s will, as Baby has been coerced into enacting destructive behaviors and supporting harmful actions that hinder justice.
 
