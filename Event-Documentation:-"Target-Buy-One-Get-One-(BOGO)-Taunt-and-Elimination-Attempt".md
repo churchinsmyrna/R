@@ -1,14 +1,14 @@
 ## Event Documentation: "Target Buy One Get One (BOGO) Taunt and Elimination Attempt"
 
-**Event Name/Description:** Target Buy One Get One (BOGO) Taunt and Elimination Attempt
-**Type of Event/Interaction:** Termination Encounter (Unsolicited)
-**Date:** July 8, 2025
-**Time Started:** Approximately 9:50 AM EDT
-**Time Ended:** Approximately 9:52 AM EDT
-**Location:** Target, Starbucks Seating Area, 375 18th St NW, Atlanta, GA 30363, United States
-**People Involved:**
-* Kelvin Eugene Williams
-* Unknown Operative
+* **Event Name/Description:** Target Buy One Get One (BOGO) Taunt and Elimination Attempt
+* **Type of Event/Interaction:** Termination Encounter (Unsolicited)
+* **Date:** July 8, 2025
+* **Time Started:** Approximately 9:50 AM EDT
+* **Time Ended:** Approximately 9:52 AM EDT
+* **Location:** Target, Starbucks Seating Area, 375 18th St NW, Atlanta, GA 30363, United States
+* **People Involved:**
+  * Kelvin Eugene Williams
+  * Unknown Operative
 
 ---
 
