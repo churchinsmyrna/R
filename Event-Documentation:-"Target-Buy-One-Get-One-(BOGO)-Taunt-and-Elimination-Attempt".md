@@ -1,4 +1,4 @@
-## Event Documentation: "Target Buy One Get One (BOGO) Taunt and Elimination Attempt"
+# Event Documentation: "Target Buy One Get One (BOGO) Taunt and Elimination Attempt"
 
 * **Event Name/Description:** Target Buy One Get One (BOGO) Taunt and Elimination Attempt
 * **Type of Event/Interaction:** Termination Encounter (Unsolicited)
