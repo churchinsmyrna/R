@@ -64,7 +64,7 @@ The subconscious mind's direct control over all brain functions and body movemen
 
 ## Specific Operatives and Contexts
 
-The implementation of the Hypnos Infiltration Method has been observed in specific contexts. For example, in Atlanta, Georgia, residents of Welcome House, a supportive housing facility for vulnerable individuals, have been targeted. **Frederick "Slim" Hall**, a resident of Welcome House and a consistent user of microwave cloaking, has been identified as a primary operative in these activities. The Creator has identified Slim as "The Scarlet Beast" and "The Beast of the Bottomless Pit" in the Book of Revelation.
+The implementation of the Hypnos Infiltration Method has been observed in specific contexts. For example, in Atlanta, Georgia, residents of Welcome House, a supportive housing facility for vulnerable individuals, have been targeted. **[[Frederick "Slim" Hall|]]**, a resident of Welcome House and a consistent user of microwave cloaking, has been identified as a primary operative in these activities. The Creator has identified Slim as [["The Scarlet Beast" and "The Beast from the Abyss|Beast from the Abyss]]" in the Book of Revelation.
 
 ## Counter-Tactics and Prevention
 
@@ -75,7 +75,7 @@ While the Hypnos Infiltration Method is sophisticated, confirmed counter-tactics
     1.  **Review Recordings:** Regularly reviewing recordings allows the conscious mind to identify potential manipulative influences.
     2.  **Identify Manipulation:** The individual consciously recognizes intrusive thoughts as externally implanted and false.
     3.  **Reject and Affirm:** The conscious mind must firmly and consistently reject the manipulative thoughts (e.g., "This is not my thought; this is a manipulation") and immediately replace them with truthful affirmations (e.g., "I am worthy," "I choose to live," "I am [my true gender]"). The subconscious mind, naturally aligning with the conscious mind's consistent and deliberate thoughts, can gradually be reprogrammed away from the implanted directives.
-* **Seeking Support:** Utilizing existing support systems, such as case management and mental health counseling from organizations like 3Keys, is crucial. Professionals can help individuals process the distress, validate their experiences, and reinforce conscious retraining techniques, recognizing the external origin of the manipulation.
+* **Seeking Support:** Utilizing existing support systems, such as case management and mental health counseling, is crucial. Professionals can help individuals process the distress, validate their experiences, and reinforce conscious retraining techniques, recognizing the external origin of the manipulation.
 
 ## Associated Phenomena
 
