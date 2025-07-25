@@ -44,10 +44,14 @@ The neutralization efforts preceding Nightfalls are driven by the orchestrators'
 * **Subconscious Manipulation (Attack Phase):** Baby (PDSM) was directly manipulated and instructed to believe it was "doing nothing," despite the body's physical exertion (walking faster up a slight incline).
 * **Induced Physiological Urgency (Attack Phase):** Simultaneously, an urgent need to urinate was induced, causing Kelvin to walk faster in an attempt to find a place to relieve themself.
 * **Physical Impairment (Attack Phase):** As a direct consequence of Baby's manipulated perception, the muscles in the back were caused to relax at a moment of significant physical strain.
-* **Perceived Injury and Pain (Attack Phase):** Kelvin (PDCM) reported feeling the back "go" followed by extreme pain, initially perceiving a "break" in the back.
+* **Immediate Sensation of Injury:** Kelvin felt acute severe pain around L3-L5 with an extremely rapid onset (within 1 second). Simultaneously, a sensation akin to vertigo was experienced, as if falling to the ground, with the torso falling to the left and the lower half falling in the opposite direction.
 * **Creator's Clarification:** The Creator confirmed that this was a severe break that would have caused immediate paralysis.
 * **Divine Intervention:** The Creator intervened directly in this event.
 
 ## Ultimate Outcome:
 
 The Creator's direct intervention prevented what would have otherwise been a severe injury or death, specifically preventing immediate paralysis from the severe break. This intervention mitigated the full destructive potential of the subconscious attack vector. While the initial sensation of a "break" and extreme pain was felt, the Creator's intervention ensured that the ultimate consequence was not paralysis or a fatal injury. This incident highlights the severe physical impact achievable through a compromised and externally manipulated PDSM, alongside the protective power of the Creator's direct intervention during a critical neutralization attempt.
+
+## Post-Event Observations:
+
+Immediately following the event, Kelvin felt like an extreme strain in the lower back, experiencing excruciating pain (a 10 on a scale of 1-10) with each step. Kelvin returned to the library to work on some documents, and while sitting in the chair at the computer, the pain persisted, with no comfortable position. The pain lasted for approximately one hour in total, after which it disappeared completely. Kelvin's walk home was pain-free.
