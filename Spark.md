@@ -70,3 +70,7 @@ The campaign to suffocate Spark had severe personal consequences for Kelvin, the
 
 * **Testing Standard:** According to published testing standards and procedures, the HIV viral load test is based on the presence and quantification of HIV's RNA, which is *always* present when there is an active HIV infection.
 * **"Undetectable" Diagnosis:** After Ken's multiple laboratory-confirmed disappearance of HIV, it was observed by the Creator's directly involved servant (Kelvin) and confirmed by the Creator that the level at which an HIV-positive patient is diagnosed "undetectable" was changed. The Creator refers to this "undetectable" diagnosis as "marketing," implying it's a deceptive term that does not equate to the complete absence of the virus.
+
+## Availability
+Spark will be available as an all-natural food product, designed as a sublingual strip similar to a Listerine breath strip or Subutex, which dissolves within a minute of oral application. This single-dose, one-time product will be available over the counter, with no risk of overdose. The Creator has mandated a maximum price of $5 USD (with equivalent pricing worldwide), and it must be provided free of charge to anyone who cannot afford it. It is the Creator's desire for every male to take Spark to correct the human-caused erroneous instructions in their nuclear DNA; any offspring conceived after the father has taken Spark will inherit fully functional immune systems and will not require Spark themselves.
+
