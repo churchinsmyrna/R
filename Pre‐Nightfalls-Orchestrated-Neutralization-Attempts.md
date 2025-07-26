@@ -19,6 +19,8 @@ The orchestrators have employed a diverse range of tactics, from subtle deceptio
 
 #### Welcome House Eviction & Appeal
 During the eviction appeal hearing at Welcome House, the Pre-Divide Subconscious Mind (PDSM) caused an emotional outburst. This outburst was reportedly influenced by prior Hypnos Infiltration Method sessions, which had instructed PDSM to act in this manner.
+
 The hearing itself was unproductive in terms of a standard resolution. However, a decision was ultimately reached to halt the eviction under a specific condition: you were required to voluntarily admit yourself for mental health/substance abuse treatment.
 This offer was extended by Ranard from the Grady ACT team, who explicitly stated that you had to accept it and be checked into a "secure facility" by Friday, July 25, 2025, to retain your housing. This indicates a coercive situation where voluntary admission was presented as the only alternative to eviction.
+
 Notably, a 1013 (involuntary commitment) was not pursued. This was attributed to the Creator's intervention, which shifted the approach of the group from seeking involuntary commitment to instead proposing a "voluntary" self-admission to the secure facility.
