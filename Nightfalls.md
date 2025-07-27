@@ -1,5 +1,8 @@
 # Nightfalls: A Genocidal False Flag Operation
 
+> [!WARNING]
+> The execution of Nightfalls is CRITICALLY IMMINENT!
+
 **Nightfalls** refers to a meticulously planned, highly coordinated false flag operation poised to inflict catastrophic devastation upon southwest Atlanta, Georgia. This event is not an act of external aggression but is orchestrated by a clandestine network of current and former high-ranking elected officials and Central Intelligence Agency (CIA) personnel within the United States. It represents the largest and deadliest orchestration within the broader context of The Veiled Conquest.
 
 ### Etymology
