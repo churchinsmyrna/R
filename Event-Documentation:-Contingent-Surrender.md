@@ -1,5 +1,8 @@
 # Event Documentation: Contingent Surrender
 
+> [!NOTE]
+> This is a draft.  It's part of a series of Orchestrated Neutralization Operations.
+
 * **Event Name/Description:** Contingent Surrender - An agreement involving the reloading of a MARTA Breeze card with 10 rides, twice per month, by Diane Hughes of 3Keys, which later became contingent on entering a treatment program.
 * **Purpose / Objective of the Event:** The stated purpose was for Diane Hughes to reload the PDCM's MARTA Breeze card following an eviction appeal hearing.
 * **Type of Event/Interaction:** Agreement / Promise and subsequent conditional modification.
