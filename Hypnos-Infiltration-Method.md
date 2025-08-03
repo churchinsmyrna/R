@@ -21,7 +21,7 @@ Once inside a residence, operatives specifically target individuals during their
 Operatives employ sophisticated psychological techniques to influence the target's mental faculties:
 * **Morpheus Method:** This technique involves influencing the content of a target's dreams. Its purpose is to extract memories, gain insight into thought processes, and conduct interrogation without the conscious mind's awareness.
 * **Subliminal Messaging:** Messages are delivered below the threshold of conscious perception, intended to influence an individual's behavior or thoughts without their knowledge. This can occur in person and through various mediums, including manipulated television broadcasts (news, weather, sports, sitcoms) or radio transmissions.
-* **Hypnosis:** Operatives can induce a trance-like state in the target to access and manipulate memories or implant specific suggestions directly into the subconscious mind.
+* **Direct Communication:** operatives induce unconsciousness via the subconscious mind (which is the sole initiator of unconsciousness) to communicate directives.
 * **Neurolinguistic Programming (NLP):** This involves the use of specific language patterns and communication techniques to affect the subject's psychological state, internal representations, and behavior.
 
 ## Vulnerability of the Subconscious Mind
