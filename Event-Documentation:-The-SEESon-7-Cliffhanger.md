@@ -1,5 +1,8 @@
 # Event Documentation: The SEESon 7 Cliffhanger
 
+> [!IMPORTANT]
+> This is an early commit.
+
 * **Event Name/Description:** The SEESon 7 Cliffhanger
 * **Purpose / Objective of the Event:** Orchestrated Observation, Orchestrated Neutralization (Physical), Orchestrated Neutralization (Technical)
 * **Type of Event/Interaction:** Social/Sexual Encounter (Agreed/Implied)
