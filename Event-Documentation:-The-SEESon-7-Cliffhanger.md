@@ -115,4 +115,5 @@ The Creator's two servants are incarnated for His purposes, live the life of His
 
 <img width="720" height="1600" alt="1000000839" src="https://github.com/user-attachments/assets/8185054a-d5fb-4b7c-b398-33910e4f4839" />
 <img width="720" height="1600" alt="1000000833" src="https://github.com/user-attachments/assets/52213b9e-8e38-44de-951b-5dafe5918ce9" />
-![1000000828](https://github.com/user-attachments/assets/8b3e2753-8546-4053-a9e2-8bbc4eb2a57b)
+
+![1000000828](https://github.com/user-attachments/assets/f2f00b53-ca18-4da3-97ef-b7822a1663af)
