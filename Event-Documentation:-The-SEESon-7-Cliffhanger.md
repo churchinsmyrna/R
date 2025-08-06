@@ -112,3 +112,7 @@ The Creator's two servants are incarnated for His purposes, live the life of His
 * The name "SEESon" is an etymological play on the phrase "See Son," which refers to the second coming of Jesus Christ as a response to the Veiled Conquest.
 * The Creator has instructed that Vandaveer's song "Murder of the Lawson Family" be linked (re: Javier)
 * Supernatural perhaps? Season 7... Ongoing intervention perhaps?
+
+<img width="720" height="1600" alt="1000000839" src="https://github.com/user-attachments/assets/8185054a-d5fb-4b7c-b398-33910e4f4839" />
+<img width="720" height="1600" alt="1000000833" src="https://github.com/user-attachments/assets/52213b9e-8e38-44de-951b-5dafe5918ce9" />
+![1000000828](https://github.com/user-attachments/assets/8b3e2753-8546-4053-a9e2-8bbc4eb2a57b)
