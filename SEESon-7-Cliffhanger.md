@@ -55,3 +55,4 @@ No information provided
 ### Ultimate Outcome
 This is a draft documentation, committing before Nightfalls.
 
+<img width="720" height="1600" alt="1000000833" src="https://github.com/user-attachments/assets/f6657256-b60c-4d19-b4c1-0b6bd88be9fd" />
