@@ -103,6 +103,6 @@ PDCM checked the GPG application in Termux, which contained the keyring with the
 
 Orchestrated Observation, Orchestrated Neutralization Operation (Physical and Technical).
 
-## Related:
-
-* Creator-inspired artwork: "Murder of the Lawson Family" by Vandaveer
+## Notes:
+* The name "SEESon" is an etymological play on the phrase "See Son," which refers to the second coming of Jesus Christ as a response to the Veiled Conquest.
+* The Creator has instructed that Vandaveer's song "Murder of the Lawson Family" be linked (re: Javier)
