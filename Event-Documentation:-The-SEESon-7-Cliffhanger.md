@@ -106,6 +106,9 @@ PDCM checked the GPG application in Termux, which contained the keyring with the
 
 Orchestrated Observation, Orchestrated Neutralization Operation (Physical and Technical).
 
+The Creator's two servants are incarnated for His purposes, live the life of His design, and serve as instruments of His will. Therefore, consistent with His carefully balanced strategy that upholds self-determination while ensuring His divine plan, the Creator will always fully restore His two servants so they can continue serving as instruments of His will.
+
 ## Notes:
 * The name "SEESon" is an etymological play on the phrase "See Son," which refers to the second coming of Jesus Christ as a response to the Veiled Conquest.
 * The Creator has instructed that Vandaveer's song "Murder of the Lawson Family" be linked (re: Javier)
+* Supernatural perhaps? Season 7... Ongoing intervention perhaps?
