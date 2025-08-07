@@ -30,7 +30,7 @@ Mr. Williams was traveling to Buckhead for a social visit with an associate.
 1.  At 9:17 PM, Mr. Williams entered the Peachtree Center MARTA station. At 9:20 PM, he boarded a Northbound Gold Line train.
 2.  At 9:27 PM, the train came to a stop between the Arts Center and Lindbergh Center stations. The train operator announced that there was a train ahead on the tracks.
 3.  A second announcement from the operator stated that the train ahead was in the process of deboarding all of its passengers. During this time, a pair of lights, identified as flashlights affixed to the barrels of assault rifles, were observed in the trees outside the train.
-4.  Mr. Williams then observed transient voids in space, which he interpreted as "bullet tracers," that disappeared within approximately one second. These phenomena were caused by the projectile's displacement of matter and were understood to be a result of a metaphysical intervention. Mr. Williams was struck several times by these occurrences, which resulted in a mild but unusual physical sensation.
+4.  Mr. Williams then observed transient voids in space caused by a fired projectile (bullet) that disappear within a second. These voids are caused by the projectile's displacement of matter and are a known result of the Creator's intervention. Mr. Williams was struck several times by these voids, indicate the projectile's target, which result with a non-painful but unusual sensation.
 5.  At 9:41 PM, the train resumed movement. Mr. Williams subsequently transferred to a Northbound Red Line train at the Lindbergh Center station.
 
 ## Ultimate Outcome:
