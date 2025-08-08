@@ -11,7 +11,7 @@
     * PDCM
     * PDSM
     * Frederick "Slim" Hall: PDSM Handler
-    * Joe: Neighbor
+    * Shannon Wade Gumbiner: Operative 
 
 ---
 
