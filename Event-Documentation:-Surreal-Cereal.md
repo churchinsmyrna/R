@@ -11,7 +11,7 @@
     * PDCM
     * PDSM
     * Frederick "Slim" Hall: PDSM Handler
-    * Shannon Wade Gumbiner: Operative 
+    * Shannon Wade Gumbiner ("Joe"): Operative 
 
 ---
 
