@@ -18,7 +18,7 @@
     * PDCM
     * PDSM
     * James Mitchell: Operative
-    * Joe (268)
+    * Shannon Wade Gumbiner ("Joe"): Operative
     * Unknown Operative: African-American male not from the area (accent reminiscent of Washington D.C./Maryland region)
 * **Contextual Observations Leading Up to the Event:** Pre-Nightfalls. Additionally, President Trump, members of his staff, and Secret Service agents were present at One Love during this period.
 * **Key Interactions During the Event:**
