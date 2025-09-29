@@ -1,0 +1,92 @@
+name: Clean Illegal Filenames
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  clean_filenames:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history for all files, which is necessary for creating the commit/PR later
+          fetch-depth: 0
+
+      - name: Rename Files with Illegal Characters
+        id: rename
+        # This shell script renames files with characters that are typically problematic
+        # across various operating systems (e.g., Windows, Unix).
+        # It replaces them with an underscore (_).
+        run: |
+          # Define a set of illegal characters in a way that is safe for 'tr' and 'find'
+          # Illegal characters: / \ : * ? " < > | and carriage return, newline, tab
+          # The regex equivalent is often [\\/:*?"<>|\r\n\t]
+          ILLEGAL_CHARS='[\\/:*?"<>|\r\n\t]'
+          RENAMED_FILES=false
+          
+          # Use 'find' to locate all files and directories, then pipe to a loop
+          # Using find -print0 and read -d '' is the safest way to handle filenames with spaces
+          find . -depth -print0 | while IFS= read -r -d '' filepath; do
+            # Skip the .git directory
+            if [[ "$filepath" == "./.git"* ]]; then
+              continue
+            fi
+
+            # Extract the directory and the base filename
+            dirname=$(dirname "$filepath")
+            basename=$(basename "$filepath")
+            
+            # Check if the base filename contains any illegal characters
+            if [[ "$basename" =~ $ILLEGAL_CHARS ]]; then
+              # Sanitize the filename:
+              # 1. Use 'echo' and 'tr' to replace illegal characters with an underscore
+              # 2. Use 'tr -s' to squeeze (reduce) multiple consecutive underscores to a single one
+              # 3. Use 'sed' to remove leading/trailing underscores
+              sanitized_basename=$(echo "$basename" | tr '\[\\/:*?"<>|\]' '_' | tr -s '_' | sed 's/^_//;s/_$//')
+              
+              # If the sanitized name is empty (e.g., the original name was only illegal characters),
+              # use a placeholder. This is a failsafe.
+              if [[ -z "$sanitized_basename" ]]; then
+                  sanitized_basename="renamed_file_$(date +%s)"
+              fi
+
+              new_filepath="$dirname/$sanitized_basename"
+              
+              # Check if the rename operation is actually necessary (the new path is different)
+              if [[ "$filepath" != "$new_filepath" ]]; then
+                echo "Renaming: '$filepath' -> '$new_filepath'"
+                git mv "$filepath" "$new_filepath"
+                RENAMED_FILES=true
+              fi
+            fi
+          done
+          
+          # Set an output to conditionally run the commit/PR steps
+          if $RENAMED_FILES; then
+            echo "renamed=true" >> $GITHUB_OUTPUT
+          else
+            echo "renamed=false" >> $GITHUB_OUTPUT
+          fi
+        
+      - name: Configure Git
+        if: steps.rename.outputs.renamed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+      - name: Create Pull Request
+        if: steps.rename.outputs.renamed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'fix: Remove illegal filename characters'
+          title: 'Automated: Remove Illegal Filename Characters'
+          body: |
+            This is an automated PR to rename files containing characters that are illegal or problematic
+            across different operating systems (such as `\`, `/`, `:`, `*`, `?`, `"`, `<`, `>`, `|`).
+            
+            The script replaced these characters with an underscore (`_`).
+          branch: 'feature/clean-filenames-$(date +%s)'
+          delete-branch: true
